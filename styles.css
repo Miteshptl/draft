@@ -1,3 +1,22 @@
+/* fullbody Section styles starts here */
+.fullbody{
+    background-color: #F2EFE8;
+    color: #3D3D3D;
+}
+/* fullbody Section styles ends here */
+/* Header Section styles starts here */
+
+/* Header Section styles ends here */
+/* Top section styles starts here */
+
+/* Top section styles ends here */
+/* About Section styles starts here */
+
+/* About Section styles ends here */
+/* Benefits section styles starts here */
+
+/* Benefits section styles ends here */
+/* testimonial  Section styles starts here */
 body{
     margin-top: 30px !important;
     background-color:#F2EFE8 !important;
@@ -100,3 +119,10 @@ a:hover,a:focus{
 .owl-next:before{
     content: "\f061";
 }
+/* Testimonials styles ends here */
+/* Newsletter section styles starts here */
+
+/* Newsletter section styles ends here */
+/* Footer section styles starts here */
+
+/* Footer section styles ends here */
